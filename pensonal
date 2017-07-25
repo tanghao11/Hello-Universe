@@ -1,0 +1,5 @@
+from universe import tanghao
+name=tanghao
+age=24
+ID=man,student
+love=happy
